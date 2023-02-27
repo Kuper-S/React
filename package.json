@@ -1,0 +1,19 @@
+{
+  "name": "react-tik-tak",
+  "version": "1.0.0",
+  "description": "Cool game to learn React and React Hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kuper-S/React_TickTack.git"
+  },
+  "author": "Super_Kuper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kuper-S/React_TickTack/issues"
+  },
+  "homepage": "https://github.com/Kuper-S/React_TickTack#readme"
+}

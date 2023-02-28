@@ -13,9 +13,16 @@ const UserSchema = new Schema({
         type: Number,
 
     },
-    time : {
-        type: Number,
+    time: {
+        value: {
+            type: Number
+        },
+        unit: {
+            type: String,
+            enum: ['seconds', 'minutes', 'hours']
+        }
     },
+
     avatar : {
         type: String,
 
